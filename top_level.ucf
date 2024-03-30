@@ -1,0 +1,17 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "UART_TX" LOC = D4;
+NET "clk" LOC = E3;
+NET "btn_press" LOC = E16;
+NET "reset" LOC = F15;
+
+
+NET "UART_TX" IOSTANDARD = LVCMOS33;
+NET "clk" IOSTANDARD = LVCMOS33;
+NET "btn_press" IOSTANDARD = LVCMOS33;
+NET "reset" IOSTANDARD = LVCMOS33;
+
+
+
+

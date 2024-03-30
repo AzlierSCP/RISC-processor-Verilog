@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/zi_ha/Desktop/ECE414/ECE414 Final Project Group7/CPU/CPU_top.xst" -ofn "C:/Users/zi_ha/Desktop/ECE414/ECE414 Final Project Group7/CPU/CPU_top.syr" 
